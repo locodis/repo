@@ -4,6 +4,7 @@ import "./App.css";
 import SearchIcon from "./search.png";
 import MovieCard from "./MovieCard";
 
+
 const API_URL = "http://www.omdbapi.com?apikey=process.env.REACT_APP_API_KEY";// noktalar olan bölüm you need an api key from omdb APİ 
 
 const movie1 =
